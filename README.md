@@ -1,0 +1,2 @@
+# STM32_V2
+在第一版的基础上改FreeRTOS为裸机加上了数据的AT上传oneNet和超声波
